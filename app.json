@@ -12,20 +12,20 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "website": "https://github.com/TMAdminz/OST",
+    "repository": "https://github.com/TMAdminz/OST",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": ""
+            "value": "1499450135:AAGwBCL7xfdUUQvvz3qlsqECSRJgQq6SbCg"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "1667813"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "1f6921c27bf6cd01aba471a14ff33bcb"
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
@@ -42,7 +42,7 @@
         },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
-            "value": "False",
+            "value": "True",
             "required": false
         },
         "DATABASE_URI": {
