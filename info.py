@@ -35,4 +35,4 @@ START_MSG = """
 2. <a href='https://telegram.dog/joinchat/UqWn1JwDclHQSzoM'>TM_OST - Private Channel</a></b>
 """
 
-SHARE_BUTTON_TEXT = "<i>I am </i><b>@TM_Spotifybot.</b> <i>Ask me what song you want with the <u><b>correct name.</b></u> Ask using <u><b>Inline Mode.</b></u></i>\n<b><i>Join Our Channels:©\n</i>1. <a href='https://telegram.dog/TM_OST'>TM_OST</a>  |  <a href='https://telegram.dog/joinchat/RedFUkR_eDejR8A8'>Join Discussion Group</a>\n2. <a href='https://telegram.dog/joinchat/UqWn1JwDclHQSzoM'>TM_OST - Private Channel</a></b>"
+SHARE_BUTTON_TEXT = "<i>I am </i><b> @TM_Spotifybot.</b>\n<i>Ask me what song you want with the <u><b>correct name.</b></u> Ask using <u><b>Inline Mode.</b></u></i>\n<b><i>Join Our Channels:©\n</i>1. <a href='https://telegram.dog/TM_OST'>TM_OST</a>  |  <a href='https://telegram.dog/joinchat/RedFUkR_eDejR8A8'>Join Discussion Group</a>\n2. <a href='https://telegram.dog/joinchat/UqWn1JwDclHQSzoM'>TM_OST - Private Channel</a></b>"
